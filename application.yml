@@ -1,8 +1,8 @@
-spring:
-  application:
-    name: demo
-  profiles:
-    active: preprod
-insurnace:
-  provider:
-    url: http://localhost:8080/insurnace-service/getUpdatePlans
+# spring:
+#   application:
+#     name: demo
+#   profiles:
+#     active: preprod
+# insurnace:
+#   provider:
+#     url: http://localhost:8080/insurnace-service/getUpdatePlans
